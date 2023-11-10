@@ -1,0 +1,46 @@
+items:
+- name: The whole CentOS debacle. If you know, you know.
+  score: 390
+- name: Awful communications from AMD for developers targeting ROCm
+  score: 349
+- name: For all the talk of Arm taking over the world, we still only have 2 HPC systems
+    with Arm that are worth using.
+  score: 340
+- name: The UI/UX changes for Slack
+  score: 334
+- name: Removal/lack of support for AVX512 across the client HW stack from intel
+  score: 319
+- name: Table flip rage when my container was building for 5+ hours and a package
+    download timed out and the entire thing was lost.
+  score: 300
+- name: I was trying to install pstree with apt-get pstree, but the package name was
+    psmisc
+  score: 292
+- name: Infiniband Leadtimes. 6 + months for optics? You can't be serious?
+  score: 290
+- name: '"scontrol update state=resume" was the convention to get nodes back into
+    idle, despite "resume" not being a state. I mentioned <br>this to a vendor and we
+    just looked at each other in silence. The following year''s release was updated
+    to allow "state=idle"'
+  score: 259
+- name: PMIx (and getting it to work) has sent me into a blind rage multiple times
+    in the last week. I'm questioning all my life choices.
+  score: 254
+- name: If I have to deal with &lt;community&gt;, I humbly request that someone just
+    give me a painless death.
+  score: 253
+- name: I typed "gut status" into my terminal and realized it would be a really useful
+    command to have. Damn.
+  score: 244
+- name: That one time I  plugged in 110 volts to the experiment control panel connector
+    that popped the tops off almost all of the TTL chips in the unit...
+  score: 238
+- name: C++ in HPC
+  score: 233
+- name: IBM effectively blocking the expansion of Power to OEMs and downstream customers
+  score: 223
+- name: The default storage medium for Kubernetes Secrets is a string with Base64
+    encoding. Who are we trying to protect the data <br> from? Anti-technology lobbyists?
+  score: 217
+- name: Spark. If you know, you know.
+  score: 198
